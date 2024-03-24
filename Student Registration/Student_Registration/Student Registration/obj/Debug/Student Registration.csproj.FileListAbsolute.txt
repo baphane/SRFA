@@ -1,0 +1,38 @@
+C:\Users\Xx\OneDrive\School\C# Code Space\Student Registration\Student Registration\obj\Debug\Student Registration.csproj.AssemblyReference.cache
+C:\Users\Xx\OneDrive\School\C# Code Space\Student Registration\Student Registration\obj\Debug\Student_Registration.Form1.resources
+C:\Users\Xx\OneDrive\School\C# Code Space\Student Registration\Student Registration\obj\Debug\Student_Registration.Properties.Resources.resources
+C:\Users\Xx\OneDrive\School\C# Code Space\Student Registration\Student Registration\obj\Debug\Student Registration.csproj.GenerateResource.cache
+C:\Users\Xx\OneDrive\School\C# Code Space\Student Registration\Student Registration\obj\Debug\Student Registration.csproj.CoreCompileInputs.cache
+C:\Users\Xx\OneDrive\School\C# Code Space\Student Registration\Student Registration\obj\Debug\Student_Registration.Login.resources
+C:\Users\Xx\OneDrive\School\C# Code Space\Student Registration\Student Registration\bin\Debug\Student Registration.exe.config
+C:\Users\Xx\OneDrive\School\C# Code Space\Student Registration\Student Registration\bin\Debug\Student Registration.exe
+C:\Users\Xx\OneDrive\School\C# Code Space\Student Registration\Student Registration\bin\Debug\Student Registration.pdb
+C:\Users\Xx\OneDrive\School\C# Code Space\Student Registration\Student Registration\obj\Debug\Student Registration.exe
+C:\Users\Xx\OneDrive\School\C# Code Space\Student Registration\Student Registration\obj\Debug\Student Registration.pdb
+C:\Users\Nontlonipho\Desktop\Group_Project\Student_Registration\Student Registration\bin\Debug\Student Registration.exe.config
+C:\Users\Nontlonipho\Desktop\Group_Project\Student_Registration\Student Registration\bin\Debug\Student Registration.exe
+C:\Users\Nontlonipho\Desktop\Group_Project\Student_Registration\Student Registration\bin\Debug\Student Registration.pdb
+C:\Users\Nontlonipho\Desktop\Group_Project\Student_Registration\Student Registration\obj\Debug\Student Registration.csproj.AssemblyReference.cache
+C:\Users\Nontlonipho\Desktop\Group_Project\Student_Registration\Student Registration\obj\Debug\Student Registration.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nontlonipho\Desktop\Group_Project\Student_Registration\Student Registration\obj\Debug\Student_Registration.Deleteform.resources
+C:\Users\Nontlonipho\Desktop\Group_Project\Student_Registration\Student Registration\obj\Debug\Student_Registration.Form1.resources
+C:\Users\Nontlonipho\Desktop\Group_Project\Student_Registration\Student Registration\obj\Debug\Student_Registration.Login.resources
+C:\Users\Nontlonipho\Desktop\Group_Project\Student_Registration\Student Registration\obj\Debug\Student_Registration.Properties.Resources.resources
+C:\Users\Nontlonipho\Desktop\Group_Project\Student_Registration\Student Registration\obj\Debug\Student_Registration.Searchform.resources
+C:\Users\Nontlonipho\Desktop\Group_Project\Student_Registration\Student Registration\obj\Debug\Student Registration.csproj.GenerateResource.cache
+C:\Users\Nontlonipho\Desktop\Group_Project\Student_Registration\Student Registration\obj\Debug\Student Registration.csproj.CoreCompileInputs.cache
+C:\Users\Nontlonipho\Desktop\Group_Project\Student_Registration\Student Registration\obj\Debug\Student Registration.exe
+C:\Users\Nontlonipho\Desktop\Group_Project\Student_Registration\Student Registration\obj\Debug\Student Registration.pdb
+C:\Users\Xx\OneDrive\School\C# Code Space\New folder\Student_Registration\Student Registration\bin\Debug\Student Registration.exe.config
+C:\Users\Xx\OneDrive\School\C# Code Space\New folder\Student_Registration\Student Registration\bin\Debug\Student Registration.exe
+C:\Users\Xx\OneDrive\School\C# Code Space\New folder\Student_Registration\Student Registration\bin\Debug\Student Registration.pdb
+C:\Users\Xx\OneDrive\School\C# Code Space\New folder\Student_Registration\Student Registration\obj\Debug\Student Registration.csproj.AssemblyReference.cache
+C:\Users\Xx\OneDrive\School\C# Code Space\New folder\Student_Registration\Student Registration\obj\Debug\Student_Registration.Deleteform.resources
+C:\Users\Xx\OneDrive\School\C# Code Space\New folder\Student_Registration\Student Registration\obj\Debug\Student_Registration.Form1.resources
+C:\Users\Xx\OneDrive\School\C# Code Space\New folder\Student_Registration\Student Registration\obj\Debug\Student_Registration.Login.resources
+C:\Users\Xx\OneDrive\School\C# Code Space\New folder\Student_Registration\Student Registration\obj\Debug\Student_Registration.Properties.Resources.resources
+C:\Users\Xx\OneDrive\School\C# Code Space\New folder\Student_Registration\Student Registration\obj\Debug\Student_Registration.Searchform.resources
+C:\Users\Xx\OneDrive\School\C# Code Space\New folder\Student_Registration\Student Registration\obj\Debug\Student Registration.csproj.GenerateResource.cache
+C:\Users\Xx\OneDrive\School\C# Code Space\New folder\Student_Registration\Student Registration\obj\Debug\Student Registration.csproj.CoreCompileInputs.cache
+C:\Users\Xx\OneDrive\School\C# Code Space\New folder\Student_Registration\Student Registration\obj\Debug\Student Registration.exe
+C:\Users\Xx\OneDrive\School\C# Code Space\New folder\Student_Registration\Student Registration\obj\Debug\Student Registration.pdb
